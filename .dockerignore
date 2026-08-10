@@ -1,0 +1,17 @@
+.git
+.gitignore
+.env
+.env.*
+HELP.md
+target/
+logs/
+*.log
+.classpath
+.project
+.settings
+.factorypath
+.idea
+.vscode
+*.iml
+*.iws
+postman/
